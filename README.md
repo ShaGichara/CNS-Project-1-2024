@@ -151,4 +151,29 @@ The prototype integrates user-centered enhancements, advanced security features,
 1. **Introduction**: Overview of the proposed queuing system's goals and benefits.
 2. **System Overview**: Description of the queuing system's components and functionalities.
 3. **Communication Architecture**: Client-server architecture for reliable data exchange.
-4. **Communication Features**: Service requests, queue updates, and
+4. **Communication Features**: Service requests, queue updates, and notifications.
+5. **Security Features**: Encryption, access controls, and data protection.
+6. **Performance Metrics**: Wait times, queue lengths, and customer satisfaction.
+
+### Distributed System
+1. **Client-Server Architecture**: Design and implementation of a reliable communication infrastructure.
+2. **Scalability Features**: Techniques to ensure the system can handle varying workloads.
+3. **Communication Protocols**: Ensuring efficient and secure data exchange.
+4. **Database Integration**: Centralized data management and access.
+
+### Tools and Techniques
+1. **Simulation Software**: Arena, Simul8, or similar tools for modeling and simulation.
+2. **Programming Languages**: Python, Java, or similar languages for development.
+3. **Database Management Systems**: MySQL, PostgreSQL, or similar systems for data storage.
+4. **Security Protocols**: AES, RSA, or similar encryption protocols for data protection.
+5. **Project Management Tools**: JIRA, Trello, or similar tools for project planning and tracking.
+6. **Collaboration Platforms**: Slack, Microsoft Teams, or similar platforms for team communication.
+
+---
+
+## Abbreviations
+- **AES**: Advanced Encryption Standard
+- **DES**: Discrete-Event Simulation
+- **KPI**: Key Performance Indicator
+- **UAT**: User Acceptance Testing
+- **QA**: Quality Assurance
