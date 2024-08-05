@@ -1,0 +1,9 @@
+document.addEventListener("DOContentLoaded", function() {
+   const queueInfo = document.getElementById('queue-info');
+   fetch('/simulate')
+       .then(response => response.json())
+       .then(data => {
+           queueInfo.innerHTML = '<p>$(data.status)</p>';
+       })
+       .catch(error => console.error('Error:', error));
+});

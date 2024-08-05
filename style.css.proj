@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    backgound-color: #f8f9fa;
+}
+
+header {
+    background-color: #28a745;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+header img {
+    width: 50px;
+    vertical-align: middle;
+}
+
+header h1 {
+    display: inline;
+    margin-left: 10px;
+}
+
+.conatiner { 
+     margin-top: 20px;
+}
+
+#queue-info {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
